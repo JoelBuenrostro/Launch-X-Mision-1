@@ -10,17 +10,17 @@ Para ello, solo gente formada en FrontEnd y BackEnd tienen el perfil para hacerl
 
 ## Esquema de la mision
 
-- [Preparacion del entorno de trabajo](#Kata-0)
-- [Primeros pasos](#Kata-1)
-- [Crear y administrar proyectos](#Kata-2)
-- [Usar logica booleana](#Kata-3)
-- [Cadenas](#Kata-4)
-- [Usar operaciones matematicas](#Kata-5)
-- [Introduccion a las listas](#Kata-6)
-- [Estructuras de control](#Kata-7)
-- [Administrar datos con diccionarios](#Kata-8)
-- [Funciones](#Kata-9)
-- [Manejo de errores](#Kata-10)
+- [Preparacion del entorno de trabajo](#Kata-0---Preparacion-del-entorno-de-trabajo)
+- [Primeros pasos](#Kata-1---Primeros-pasos)
+- [Crear y administrar proyectos](#Kata-2---Crear-y-administrar-proyectos)
+- [Usar logica booleana](#Kata-3---Usar-logica-booleana)
+- [Cadenas](#Kata-4---Cadenas)
+- [Usar operaciones matematicas](#Kata-5---Usar-operaciones-matematicas)
+- [Introduccion a las listas](#Kata-6---Introduccion-a-las-listas)
+- [Estructuras de control](#Kata-7-Estructuras-de-control)
+- [Administrar datos con diccionarios](#Kata-8-Administrar-datos-con-diccionarios)
+- [Funciones](#Kata-9---Funciones)
+- [Manejo de errores](#Kata-10---Manejo-de-errores)
 
 ### Kata 0 - Preparacion del entorno de trabajo
 
