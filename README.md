@@ -26,6 +26,8 @@ Para ello, solo gente formada en FrontEnd y BackEnd tienen el perfil para hacerl
 
 Aprende a utilizar cuadernos de Jupyter para ejecutar Python, crear un cuaderno interactivo que tenga elementos de código o Markdown interactivos y ejecutables.
 
+[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/ship-manual.ipynb)
+
 ### Kata 1 - Primeros pasos
 
 En este módulo, aprenderás una variedad de temas, como entrada y salida a la consola, variables y tipos de datos, y conversión de tipos.
