@@ -1,6 +1,10 @@
+# LaunchX - Mision 1
+
 ![Banner](/assets/Banner.png)
 
-# 🚀 Inicia la aventura
+---
+
+## 🚀 Inicia la aventura
 
 Debido a una extraña pandemia en la tierra, la mayoría de los habitantes huyeron y se alojaron en la estación espacial Innova-022 para estar a salvo.
 
@@ -32,31 +36,31 @@ Aprende a utilizar cuadernos de Jupyter para ejecutar Python, crear un cuaderno 
 
 En este módulo, aprenderás una variedad de temas, como entrada y salida a la consola, variables y tipos de datos, y conversión de tipos.
 
-[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata1.ipynb))
+[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata1.ipynb)
 
 ### Kata 2 - Crear y administrar proyectos
 
 Para administrar proyectos, necesitas de un entorno virtual, paquetes que te ayudarán a desarrollar más rápido y una estrategia para mantener los paquetes.
 
-[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata2.ipynb))
+[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata2.ipynb)
 
 ### Kata 3 - Usar logica booleana
 
 Explora cómo usar la lógica booleana en Python para crear expresiones complejas que aplican lógica condicional.
 
-[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata3.ipynb))
+[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata3.ipynb)
 
 ### Kata 4 - Cadenas
 
 Usa uno de los tipos más comunes en Python para representar texto. Desde el formateo simple hasta la representación de variables, el uso de cadenas operativas es una habilidad fundamental para los desarrolladores de Python.
 
-[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata4.ipynb))
+[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata4.ipynb)
 
 ### Kata 5 - Usar operaciones matematicas
 
 Casi todas las aplicaciones que crea un desarrollador involucran algún nivel de matemáticas. Este módulo explorarás la funcionalidad central en Python y los operadores aritméticos. También explorarás cómo realizar más manipulaciones de datos y números. Pondrás este conocimiento en uso para crear un proyecto.
 
-[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata5.ipynb))
+[notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata5.ipynb)
 
 ### Kata 6 - Introduccion a las listas
 
@@ -87,3 +91,5 @@ El siguiente paso después de usar el código de procedimiento es escribir softw
 Manejar excepciones y crear mensajes de error útiles. Mejora tus habilidades usando excepciones para el control de flujo de código.
 
 [notebook](https://github.com/JoelBuenrostro/Launch-X-Mision-1/blob/main/notebooks/Kata10.ipynb)
+
+---
